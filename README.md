@@ -127,7 +127,7 @@ The script provides a comprehensive quality report including:
 
 | Issue | Solution |
 |-------|----------|
-| Missing CouponCode values | Filled with "NO COUPON" |
+| Missing CouponCode values | Filled with "No Coupon" |
 | Inconsistent coupon formatting | Standardized to uppercase |
 | Date format inconsistencies | Converted to YYYY-MM-DD |
 | Unvalidated numeric data | Added range and calculation checks |
